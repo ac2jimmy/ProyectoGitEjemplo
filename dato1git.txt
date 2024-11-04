@@ -20,3 +20,7 @@ XORIZON,ELAB: 11/05/2024,VENCE: 11/05/2028,25/10/2024,11:27:18
 [2J[4;0fSYSTEM STATUS[5;0fInk Level: OK [6;0fMakeup Level: OK [7;0fViscosity: OK [8;0fPressure: 42.1 PSI[9;0fJet On[10;0fMessage Name: SAN JOSE[11;0fHigh Voltage: ON [12;0fFilters: OK [13;0fProduct Count:  4811230 [14;0fCounter 1: 0 [15;0fCounter 2: 0 [16;0fPrinted Count:       12 Ack Ready X
 X[2J[4;0fSYSTEM STATUS[5;0fInk Level: OK [6;0fMakeup Level: OK [7;0fViscosity: OK [8;0fPressure: 42.1 PSI[9;0fJet On[10;0fMessage Name: SAN JOSE[11;0fHigh Voltage: ON [12;0fFilters: OK [13;0fProduct Count:  4811230 [14;0fCounter 1: 0 [15;0fCounter 2: 0 [16;0fPrinted Count:       12 Ack Ready X
 [2J[4;0fSYSTEM STATUS[5;0fInk Level: OK [6;0fMakeup Level: OK [7;0fViscosity: OK [8;0fPressure: 42.1 PSI[9;0fJet On[10;0fMessage Name: SAN JOSE[11;0fHigh Voltage: ON [12;0fFilters: OK [13;0fProduct Count:  4811230 [14;0fCounter 1: 0 [15;0fCounter 2: 0 [16;0fPrinted Count:       12 Ack Ready X
+
+
+
+ejemplo v2
